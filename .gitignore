@@ -12,8 +12,8 @@ npm-debug.log*
 
 /coverage
 .idea
-/src
-/test
+# /src
+# /test
 # vscode
 .vscode
 
